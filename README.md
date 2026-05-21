@@ -20,18 +20,6 @@ This project was built to demonstrate:
 
 ---
 
-## Screenshots
-
-| Onboarding | Session Setup | Active Session |
-|---|---|---|
-| *(placeholder)* | *(placeholder)* | *(placeholder)* |
-
-| Prediction Result | History | Insights |
-|---|---|---|
-| *(placeholder)* | *(placeholder)* | *(placeholder)* |
-
----
-
 ## Features
 
 ### 1. Privacy-First Onboarding
@@ -235,34 +223,6 @@ See `FocusLens/ML/README_ML.md` for:
 - **Widget:** A session quick-start or streak widget using WidgetKit
 - **Shortcut support:** Start session via Siri Shortcuts
 - **Export:** Allow users to export their own session data as JSON or CSV
-
----
-
-## Suggested Commit Sequence
-
-Use this as a reference for building the repo honestly and demonstrating incremental progress:
-
-```
-1. Initial project setup — directory structure, FocusLensApp.swift
-2. Add data models — StudySession, FocusCheckpoint, FocusPrediction
-3. Add local storage service — JSON persistence with atomic writes
-4. Add heuristic focus predictor — rule-based fallback in FocusPredictionService
-5. Add Core ML integration layer — MLModel loading with heuristic fallback
-6. Add SessionViewModel — session lifecycle, timer, checkpoint management
-7. Add HistoryViewModel and InsightsViewModel
-8. Add OnboardingView — privacy-first four-page onboarding
-9. Add SessionSetupView — pre-session form with accessibility labels
-10. Add ActiveSessionView — timer ring, checkpoint logging sheet
-11. Add PredictionResultView — category, confidence, factors, reflection
-12. Add HistoryView — session list with swipe-to-delete
-13. Add InsightsView — local stats and Swift Charts trend
-14. Add RootTabView and SettingsView — tab navigation, accessibility toggles
-15. Add AccessibilitySettingsService — preferences with UserDefaults persistence
-16. Add unit tests — FocusPredictionServiceTests, SessionFeatureBuilderTests
-17. Add ML training data and README_ML.md
-18. Write README.md
-19. Polish: accessibility hints, VoiceOver adjustable ratings, reduced motion
-```
 
 ---
 
