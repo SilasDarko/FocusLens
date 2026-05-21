@@ -1,0 +1,51 @@
+planned_duration_minutes,checkpoint_count,average_focus_rating,total_interruptions,app_switch_count,energy_level,distraction_level_before,average_stress,average_difficulty,environment_type,label
+60,4,4.5,1,0,2,0,1.5,3.0,0,Deep Focus
+90,5,4.8,0,0,2,0,1.0,3.5,1,Deep Focus
+45,3,4.2,2,0,2,1,2.0,2.5,0,Deep Focus
+120,6,4.6,1,1,1,0,1.5,4.0,1,Deep Focus
+50,4,4.4,1,0,2,0,1.8,3.0,0,Deep Focus
+75,5,4.7,0,0,2,0,1.2,2.8,1,Deep Focus
+30,2,4.0,1,0,1,0,2.0,2.0,0,Deep Focus
+60,3,4.3,2,0,2,0,1.5,3.5,0,Deep Focus
+90,6,4.9,0,0,2,0,1.0,3.0,1,Deep Focus
+45,4,4.1,1,0,1,0,2.0,2.5,1,Deep Focus
+60,3,3.5,3,1,1,1,2.5,3.0,2,Mixed Focus
+90,4,3.2,4,2,1,1,3.0,3.5,3,Mixed Focus
+45,3,3.8,2,1,2,1,2.0,2.5,2,Mixed Focus
+120,5,3.0,5,2,1,2,3.5,4.0,3,Mixed Focus
+75,4,3.6,3,1,1,1,2.5,3.0,2,Mixed Focus
+60,3,3.3,4,2,0,1,3.0,2.5,4,Mixed Focus
+50,4,3.7,2,1,2,0,2.0,3.0,2,Mixed Focus
+90,5,3.1,5,2,1,2,3.5,3.5,3,Mixed Focus
+30,2,3.9,2,0,1,1,2.5,2.0,2,Mixed Focus
+60,3,3.4,3,1,1,1,2.8,3.0,4,Mixed Focus
+45,2,2.5,6,3,0,2,4.0,3.5,4,Distracted
+90,3,2.0,8,4,0,2,4.5,3.0,5,Distracted
+60,2,2.2,7,3,1,2,4.0,2.5,4,Distracted
+30,1,2.8,5,2,0,1,3.5,3.0,5,Distracted
+75,3,2.1,9,5,0,2,4.5,3.5,4,Distracted
+45,2,1.8,10,4,0,2,5.0,4.0,5,Distracted
+60,2,2.4,6,3,0,2,4.0,2.5,3,Distracted
+90,3,2.3,7,3,1,2,4.2,3.0,4,Distracted
+30,1,2.6,5,2,0,2,3.8,3.5,5,Distracted
+45,2,1.9,8,4,0,2,4.8,4.0,4,Distracted
+60,3,2.0,5,2,0,2,4.5,4.5,4,Recovery Needed
+90,2,1.5,7,3,0,2,5.0,4.0,5,Recovery Needed
+45,2,1.8,6,3,0,2,4.8,4.5,4,Recovery Needed
+30,1,2.0,4,2,0,2,4.5,3.5,5,Recovery Needed
+75,3,1.7,8,4,0,2,5.0,4.5,4,Recovery Needed
+60,2,1.6,9,3,0,2,4.9,5.0,5,Recovery Needed
+90,2,2.1,6,2,0,2,4.6,4.0,4,Recovery Needed
+45,1,1.4,10,4,0,2,5.0,4.5,5,Recovery Needed
+30,2,1.9,5,3,0,2,4.7,4.0,4,Recovery Needed
+60,2,1.5,8,4,0,2,5.0,5.0,5,Recovery Needed
+55,4,4.3,1,0,2,0,1.5,3.2,0,Deep Focus
+80,5,4.6,1,0,2,0,1.3,3.0,1,Deep Focus
+65,4,3.4,3,1,1,1,2.7,3.3,2,Mixed Focus
+50,3,3.6,3,2,1,1,2.5,2.8,3,Mixed Focus
+40,2,2.3,7,3,0,2,4.2,3.0,4,Distracted
+70,3,2.0,8,4,0,2,4.5,3.5,5,Distracted
+55,2,1.7,6,3,0,2,4.9,4.5,4,Recovery Needed
+85,3,1.8,9,4,0,2,5.0,4.8,5,Recovery Needed
+100,6,4.7,0,0,2,0,1.1,3.8,1,Deep Focus
+35,3,3.8,2,1,1,0,2.2,2.3,0,Mixed Focus
